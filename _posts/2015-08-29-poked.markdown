@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "PokeD Project"
+date:   2015-08-29 03:55:00 +0300
+img: img/portfolio/poked.png
+modalID: modalPokeD
+category: C#
+---
+Site:  
+[poked.github.io](http://poked.github.io/)  
+  
+Projects:  
+[PokeD.Core](https://github.com/PokeD/PokeD.Core) - Core library for all other projects.  
+[PokeD.Server](https://github.com/PokeD/PokeD.Server) - Server-related code.  
+[PokeD.Server.Desktop](https://github.com/PokeD/PokeD.Server.Desktop) - Desktop version of PokeD's server.  
+[PokeD.SCON](https://github.com/PokeD/PokeD.Server) - SCON (Shitty Console). Remote server manager.  
+[PokeD.SCON.Desktop](https://github.com/PokeD/PokeD.Server.Desktop) - Desktop version of PokeD's SCON.  
+[PokeD.Client](https://github.com/PokeD/PokeD.Server) - Client-related code.  
+[PokeD.Client.Desktop](https://github.com/PokeD/PokeD.Server.Desktop) - Desktop version of PokeD's client.  
+[poked.github.io](https://github.com/PokeD/poked.github.io) - PokeD's site.  
+  
+Forks:  
+[TMXParserPCL](https://github.com/PokeD/TMXParserPCL) - Using SharpZipLib.Portable and Stream's only.

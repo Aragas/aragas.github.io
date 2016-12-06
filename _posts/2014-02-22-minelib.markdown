@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "MineLib Project"
+date:   2014-02-22 20:45:00 +0300
+img: img/portfolio/minelib.png
+modalID: modalMineLib
+category: C#
+---
+Projects:  
+[MineLib.Network](https://github.com/MineLib/MineLib.Network) - Old network library. Connection to v1.8 servers, Yggdrasil.  
+[MineLib.Core](https://github.com/MineLib/MineLib.Core) - Core library for all other projects.  
+[ProtocolModern](https://github.com/MineLib/ProtocolModern) - Minecraft Moderm network protocol implementation.  
+[ProtocolClassic](https://github.com/MineLib/ProtocolClassic) - Minecraft Classic network protocol implementation.  
+[ProtocolTrueCraft](https://github.com/MineLib/ProtocolTrueCraft) - Minecraft b1.7.3 network protocol implementation.  
+[MineLib.PGL](https://github.com/MineLib/MineLib.PGL) - Graphic components and complex client-related code.  
+[MineLib.Windows](https://github.com/MineLib/MineLib.Windows) - Windows client.  
+  
+Forks:  
+[fNbt.Portable](https://github.com/MineLib/fNbt.Portable) - Was made portable ([Profile 111](http://run.plnkr.co/OXmJE4s55FBfrGjI/)).

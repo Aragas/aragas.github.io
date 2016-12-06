@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Murder-Ex Gamemode"
+date:   2015-02-15 00:00:00 +0300
+img: img/portfolio/murder-ex.png
+modalID: modalMurder-Ex
+category: Lua
+---
+
+Extended version of Garry's Mod Gamemode [Murder](https://github.com/mechanicalmind/murder)   
+
+Projects:  
+[Murder-Ex](https://github.com/Aragas/murder-ex)  
+[Pointshop 2 Murder(Murder-Ex) Integration](https://github.com/Aragas/PS2-Murder-Integration)  
