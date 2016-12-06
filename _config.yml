@@ -6,17 +6,17 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Start Bootstrap
-email: your-email@domain.com
+title: Aragas
+email: micvitalij@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Web Developer - Graphic Artist - User Experience Designer
-baseurl: "/startbootstrap-freelancer-jekyll" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+  C# Developer - Procrastinator - Student
+#baseurl: "/startbootstrap-freelancer-jekyll" # the subpath of your site, e.g. /blog
+url: "http://aragas.github.io" # the base hostname & protocol for your site
 
 # Social media profiles - feel free to add more here
-twitter_username: SBootstrap
-github_username:  BlackrockDigital
-facebook_username: StartBootstrap
+twitter_username: Aragasas
+github_username:  Aragas
+#facebook_username: StartBootstrap
 #instagram_username: beyonce
 #stackoverflow_url: https://
 #googleplus_username: BobMarley
@@ -24,10 +24,10 @@ facebook_username: StartBootstrap
 #linkedin_url: https://
 
 # Address information
-address_street: 3034 Melrose Place
-address_city: Beverly Hills
-address_state: CA
-address_zip: 90201
+#address_street: None
+address_city: Moscow
+address_state: Russia
+#address_zip: 00000
 
 # Build settings
 markdown: kramdown
