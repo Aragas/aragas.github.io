@@ -31,3 +31,6 @@ address_state: Russia
 
 # Build settings
 markdown: kramdown
+
+includes:
+- .well-known
