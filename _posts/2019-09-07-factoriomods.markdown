@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Factorio Mods"
+date:   2019-09-07 00:00:00 +0300
+img: img/portfolio/factoriomods.png
+modalID: modalFactorioMods
+category: Lua
+---
+Projects:  
+[Angel's Extended - Remelting](https://mods.factorio.com/mod/angelsextended-remelting) - An extension to Angel's Smelting. Adds Alloy Mixer that is used to mix molten metals into alloys directly and adds the ability to remelt metal into molten liquids.  
