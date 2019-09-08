@@ -1,6 +1,0 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target" : { "namespace": "android_app", "package_name": "org.aragas.shevroen.android",
-               "sha256_cert_fingerprints": ["DF:3E:26:80:4C:7A:6F:06:23:AC:A7:99:C3:1D:4B:70:45:5B:32:5A:9B:C9:20:1F:8D:7D:E5:D9:30:18:36:6B"] }
-}]
-
