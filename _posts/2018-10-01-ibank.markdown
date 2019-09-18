@@ -9,7 +9,7 @@ category: C#
 Standalone program complex for Moscow City Assembly Point (Городской сборный пункт Военного комиссариата г. Москвы).  
 Used [MSSQL](wikipedia.org/wiki/Microsoft_SQL_Server) as the underlying Database.  
 Projects:  
-[iBank.Operator.Desktop](https://github.com/mcap-ibank/iBank.Operator.Desktop) - Used by the banking department for preparing the process of issuing and actually issuing VTB bank cards for draftees.  
+[iBank.Operator.Desktop](https://github.com/mcap-ibank/iBank.Operator.Desktop) - WPF application (ported WinForms) used by the banking department for preparing the process of issuing and actually issuing VTB bank cards for draftees.  
 Imported and handled Excel files, exported reports in both Excel and Word formats.  
 Was build with the intention of using any database with SQL support.  
 Included a [WiX](https://github.com/mcap-ibank/iBank.Operator.Installer) installer for easier installation and updating process.  
