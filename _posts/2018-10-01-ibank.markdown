@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "iBank Program Complex"
+date:   2018-10-01 00:00:00 +0300
+img: img/portfolio/ibank.png
+modalID: modaliBank
+category: C#
+---
+Standalone program complex for Moscow City Assembly Point (Городской сборный пункт Военного комиссариата г. Москвы).  
+Used [MSSQL](wikipedia.org/wiki/Microsoft_SQL_Server) as the underlying Database.  
+Projects:  
+[iBank.Operator.Desktop](https://github.com/mcap-ibank/iBank.Operator.Desktop) - Used by the banking department for preparing the process of issuing and actually issuing VTB bank cards for draftees.  
+Imported and handled Excel files, exported reports in both Excel and Word formats.  
+Was build with the intention of using any database with SQL support.  
+Included a [WiX](https://github.com/mcap-ibank/iBank.Operator.Installer) installer for easier installation and updating process.  
+  
+[iBank.Scanner.Droid](https://github.com/mcap-ibank/iBank.Scanner.Droid) - An Android helper application for `iBank.Operator.Desktop` used for scanning Russian Passports in realtime to read MRZ code and compare the data in the Database for correctness.
