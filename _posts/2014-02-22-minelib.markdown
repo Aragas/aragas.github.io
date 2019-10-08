@@ -5,7 +5,9 @@ date:   2014-02-22 20:45:00 +0300
 img: img/portfolio/minelib.png
 modalID: modalMineLib
 category: C#
----
+--- 
+See [organization](https://github.com/MineLib).  
+  
 Projects:  
 [MineLib.Network](https://github.com/MineLib/MineLib.Network) - Old network library. Connection to v1.8 servers, Yggdrasil.  
 [MineLib.Core](https://github.com/MineLib/MineLib.Core) - Core library for all other projects.  
