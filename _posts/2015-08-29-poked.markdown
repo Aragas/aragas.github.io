@@ -5,9 +5,9 @@ date:   2015-08-29 03:55:00 +0300
 img: img/portfolio/poked.png
 modalID: modalPokeD
 category: C#
----
-Site:  
-[poked.github.io](http://poked.github.io/)  
+--- 
+See [site](https://poked.github.io/).  
+See [organization](https://github.com/poked).  
   
 Projects:  
 [PokeD.Core](https://github.com/PokeD/PokeD.Core) - Core library for all other projects.  
