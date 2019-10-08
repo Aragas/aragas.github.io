@@ -7,11 +7,12 @@ modalID: modaliBank
 category: C#
 ---
 Standalone program complex for Moscow City Assembly Point (Городской сборный пункт Военного комиссариата г. Москвы).  
-Used [MSSQL](wikipedia.org/wiki/Microsoft_SQL_Server) as the underlying Database.  
+Uses [MSSQL](wikipedia.org/wiki/Microsoft_SQL_Server) as the underlying Database.  
+See [organization](https://github.com/mcap-ibank).  
 Projects:  
-[iBank.Operator.Desktop](https://github.com/mcap-ibank/iBank.Operator.Desktop) - WPF application (ported WinForms) used by the banking department for preparing the process of issuing and actually issuing VTB bank cards for draftees.  
-Imported and handled Excel files, exported reports in both Excel and Word formats.  
-Was build with the intention of using any database with SQL support.  
-Included a [WiX](https://github.com/mcap-ibank/iBank.Operator.Installer) installer for easier installation and updating process.  
+[iBank.Operator.Desktop](https://github.com/mcap-ibank/iBank.Operator.Desktop) - WPF application (ported from WinForms) used by the banking department for preparing the process of issuing and actually issuing VTB bank cards for draftees.  
+Importes and handles Excel files, exports reports in both Excel and Word formats.  
+Is built with the intention of using any database that supports SQL.  
+Includes a [WiX](https://github.com/mcap-ibank/iBank.Operator.Installer) installer for easier installation and updating process.  
   
-[iBank.Scanner.Droid](https://github.com/mcap-ibank/iBank.Scanner.Droid) - An Android helper application for `iBank.Operator.Desktop` used for scanning Russian Passports in realtime to read MRZ code and compare the data in the Database for correctness.
+iBank.Scanner.Droid - An Android helper application for `iBank.Operator.Desktop` used for scanning Russian Passports in realtime to read MRZ code and compare the data in the Database for correctness. Couldn't be published due to using proprietary software.
