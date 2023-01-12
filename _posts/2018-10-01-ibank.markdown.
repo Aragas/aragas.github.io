@@ -5,6 +5,7 @@ date:   2018-10-01 00:00:00 +0300
 img: img/portfolio/ibank.png
 modalID: modaliBank
 category: C#
+hidden: true
 ---
 Standalone program complex for Moscow City Assembly Point (Городской сборный пункт Военного комиссариата г. Москвы).  
 Uses [MSSQL](wikipedia.org/wiki/Microsoft_SQL_Server) as the underlying Database.  
