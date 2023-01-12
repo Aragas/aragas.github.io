@@ -1,4 +1,4 @@
-{% for post in site.posts %}
+{% for post in site.posts | where_exp: "post", "post.hidden != 'true'" %}
 <div class="portfolio-modal modal fade" id="{{ post.modalID }}" tabindex="-1" role="dialog" aria-hidden="true">
     <div class="modal-content">
         <div class="close-modal" data-dismiss="modal">
